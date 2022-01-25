@@ -1,0 +1,40 @@
+.header{
+	min-height: 100px;
+	background-color: violet;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 200px;
+	background-color: steelblue;
+	width: 40%;
+	float: left;
+}
+.blog{
+	min-height: 200px;
+	background-color: yellow;
+	width: 60%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 200px;
+	width: 33.3%;
+	float: left;
+}
+.teal{
+	background-color: teal;
+}
+.thistle{
+	background-color: thistle;
+}
+.tomato{
+	background-color: tomato;
+}
+.footer{
+	min-height: 100px;
+	background-color: wheat;
+}
